@@ -1,6 +1,7 @@
 # TikTok AI Chatbot V2
 
 Responds to comments during TikTok live sessions using OpenAI ChatGPT API and ElevenLabs Text-To-Speech.
+DISCLAIMER: This project is not being updated. (2023)
 
 ## Setting Up
 
